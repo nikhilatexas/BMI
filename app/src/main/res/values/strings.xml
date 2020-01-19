@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="icon_that_changes">Icon that changes</string>
+    <string name="track_your_body_mass_index_now">Track your Body Mass Index Now!</string>
+    <string name="calculate">Calculate</string>
+    <string name="height">Height:</string>
+    <string name="weight">Weight:</string>
+    <string name="calculate_your_bmi">Calculate Your BMI</string>
+    <string name="inches">Inches</string>
+    <string name="pounds">Pounds</string>
+    <string name="feet">Feet</string>
+</resources>
