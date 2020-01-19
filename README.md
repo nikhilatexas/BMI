@@ -1,5 +1,5 @@
 # BMI
-Android App that calculates your BMI and gives you suggestions on how to improve it.
+Android App that calculates your BMI and gives you suggestions on how to improve it. (Built app using Java and Android Studio)
 
 <img width="220" alt="screenshot" src="https://user-images.githubusercontent.com/40574628/72688382-4135b680-3acc-11ea-8e7d-c4cf94c5274a.PNG">
 <img width="220" alt="screenshot2" src="https://user-images.githubusercontent.com/40574628/72688417-a38eb700-3acc-11ea-9b5e-0d088718ada6.PNG">
